@@ -7,5 +7,5 @@ Tecnologias
 Frontend: React (com um toque de Tailwind pra estilizar)
 Backend: Spring Boot (pra gerenciar tudo nos bastidores)
 
-Imagem
+Página Inicial
 <img width="2544" height="909" alt="Captura de tela 2025-07-19 185223" src="https://github.com/user-attachments/assets/fcbe3569-9f25-4fa7-b5b3-efb3b3f15fb1" />
